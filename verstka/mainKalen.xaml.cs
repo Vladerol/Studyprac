@@ -28,6 +28,7 @@ namespace verstka
             users.Add(new Print(2, "Чунетдинов", "Вильдус", 68, "Катар"));
             users.Add(new Print(3, "Чубутдинов", "Чильдун", 38, "Бешкек"));
             users.Add(new Print(4, "Pунидинов", "Вильдуни", 68, "Рим"));
+            users.Add(new Print(5, "Pунидинов", "Вильдуни", 68, "Рим"));
             DG.ItemsSource = users;
         }
         
